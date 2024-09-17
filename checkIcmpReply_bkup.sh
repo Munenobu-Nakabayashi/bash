@@ -23,6 +23,7 @@ do
 		else
 			echo "${line}: OK" >> "${resultFileName}"
 		fi
+		break
 	done
 	cat /dev/null > "${workFileName}"
 	
