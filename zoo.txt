@@ -1,6 +1,11 @@
-green bird
-white tiger
-green dog
-blue dog
+yellow bird
+yellow tiger
+yellow lion
+blue lion
 red bird
+black cat
+white dog
+green bear
+silver snake
+green man
 
