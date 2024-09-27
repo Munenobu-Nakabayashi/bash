@@ -1,0 +1,676 @@
+{
+   "checksum": "e8b6ec090bbff586eb16ceb1d5682111",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13332819721895568",
+            "date_last_used": "13371874438055683",
+            "guid": "3c80170b-9b33-4ec3-8522-ce2fb515cff5",
+            "id": "6",
+            "name": "ホーム | Microsoft 365",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.office.com/?auth=2",
+            "visit_count": 20
+         }, {
+            "date_added": "13332820514357315",
+            "date_last_used": "0",
+            "guid": "2d167956-50aa-40d7-9004-d1bf58dd6eb9",
+            "id": "7",
+            "name": "ホーム - Microsoft Azure",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/#home",
+            "visit_count": 0
+         }, {
+            "date_added": "13332821061331346",
+            "date_last_used": "13371264392745806",
+            "guid": "185b6ec9-99fa-4e5b-b241-1adea3c5009d",
+            "id": "8",
+            "name": "ホーム - Microsoft Purview",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://compliance.microsoft.com/homepage",
+            "visit_count": 3
+         }, {
+            "date_added": "13332821371129665",
+            "date_last_used": "13371874448332962",
+            "guid": "a3e26aab-0a59-4301-bf5e-8114f3601a19",
+            "id": "9",
+            "name": "ShinseiBankGroup - Microsoft Entra 管理センター",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/TenantOverview.ReactView",
+            "visit_count": 21
+         }, {
+            "date_added": "13332822536572261",
+            "date_last_used": "13370077646932509",
+            "guid": "1d5bfe5a-5612-4546-a324-ca6f6dd5caeb",
+            "id": "10",
+            "name": "Eキャビネット",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/cgi-bin/custom/hbk_session_liaison.cgi?n=402665&c=rUHUnGdt&l=%2Fhibiki%2Fliaison.do",
+            "visit_count": 1
+         }, {
+            "date_added": "13332838599091066",
+            "date_last_used": "0",
+            "guid": "44170939-af04-48ff-a7d1-80c0da9946b8",
+            "id": "12",
+            "name": "トップページ | e-Voice",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://evoice.shinseifinancial.co.jp/",
+            "visit_count": 0
+         }, {
+            "date_added": "13332908930090712",
+            "date_last_used": "13371177486195488",
+            "guid": "b70449e8-9884-4f49-9eed-c6391ee7a490",
+            "id": "14",
+            "name": "ホーム - Microsoft 365 セキュリティ",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://security.microsoft.com/homepage?tid=ffbefcdb-cf8c-404f-ad0d-12ddee702957",
+            "visit_count": 1
+         }, {
+            "date_added": "13332911073554218",
+            "date_last_used": "0",
+            "guid": "1dc37853-06fb-4246-99f6-9ff2ac14f84d",
+            "id": "15",
+            "name": "Microsoft Azure Identity Protection",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/#blade/Microsoft_AAD_ProtectionCenter/IdentitySecurityDashboardMenuBlade/GettingStarted",
+            "visit_count": 0
+         }, {
+            "date_added": "13351324487277756",
+            "date_last_used": "13371875270522716",
+            "guid": "783740aa-598a-4303-b6bd-89a58d4193b2",
+            "id": "108",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copilot",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://copilot.microsoft.com/?itrid=65bc7ad4907445a6bccc33575f89326d",
+            "visit_count": 1
+         }, {
+            "date_added": "13351328160460244",
+            "date_last_used": "0",
+            "guid": "57c78a9d-97c4-4194-8f13-f64c943dac4c",
+            "id": "109",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Microsoft Purview",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://purview.microsoft.com/home?tid=ffbefcdb-cf8c-404f-ad0d-12ddee702957",
+            "visit_count": 0
+         }, {
+            "date_added": "13332911178473797",
+            "date_last_used": "0",
+            "guid": "1d9894b4-bb91-4655-aa93-701d79652f91",
+            "id": "16",
+            "name": "Microsoft Intune Web Company Portal",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.manage.microsoft.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13332911360105169",
+            "date_last_used": "0",
+            "guid": "c232058b-9ecf-4a0d-81a4-5f8fea3e07ae",
+            "id": "18",
+            "name": "Proofpoint Protection Server",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://00262701.pphosted.com:10000/admin?",
+            "visit_count": 0
+         }, {
+            "date_added": "13333181236422922",
+            "date_last_used": "0",
+            "guid": "5b56797f-4e86-4a5b-b810-5ddacf4dc242",
+            "id": "20",
+            "name": "Microsoft Defender for Identity | , | Nakabayashi, Munenobu(SF) には、このページにアクセスするアクセス許可がありません",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.atp.azure.com/unauthorized",
+            "visit_count": 0
+         }, {
+            "date_added": "13333181260766608",
+            "date_last_used": "0",
+            "guid": "8ce4d459-5ea6-43d6-8e7b-0f873c850007",
+            "id": "21",
+            "name": "マイ ダッシュボード - Microsoft Azure",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/#blade/Microsoft_Azure_InformationProtection/DataClassGroupEditBlade/globalBlade",
+            "visit_count": 0
+         }, {
+            "date_added": "13333181282085718",
+            "date_last_used": "0",
+            "guid": "543a35f4-b530-4c0e-8449-7070bebaff49",
+            "id": "22",
+            "name": "Microsoft Defender for Cloud - Microsoft Azure",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0",
+            "visit_count": 0
+         }, {
+            "date_added": "13333181307759033",
+            "date_last_used": "13371875293816997",
+            "guid": "c237ecfa-620d-4f15-a200-5bd9713bb565",
+            "id": "23",
+            "name": "ShinseiBankGroup (shinseibankgroup.onmicrosoft.com) - Microsoft Intune 管理センター",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://intune.microsoft.com/#home",
+            "visit_count": 1
+         }, {
+            "date_added": "13333181413774172",
+            "date_last_used": "0",
+            "guid": "1516fc2b-1151-4b34-b50d-4db4aa23ab31",
+            "id": "24",
+            "name": "ホーム - セキュリティ/コンプライアンス",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://protection.office.com/homepage",
+            "visit_count": 0
+         }, {
+            "date_added": "13333181429215382",
+            "date_last_used": "0",
+            "guid": "f0b0003f-dd7d-459c-9388-8d6514ce4160",
+            "id": "25",
+            "name": "Exchange admin center",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://admin.exchange.microsoft.com/#/",
+            "visit_count": 0
+         }, {
+            "date_added": "13333193676810733",
+            "date_last_used": "0",
+            "guid": "0e6f9626-10e5-414e-ac7d-2a7ac0dd03ff",
+            "id": "26",
+            "name": "Microsoft Cloud App Security",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.cloudappsecurity.com/oauth2/error",
+            "visit_count": 0
+         }, {
+            "date_added": "13333426269513723",
+            "date_last_used": "0",
+            "guid": "e7525686-d423-4f0e-95ff-f16b5a6f1cf9",
+            "id": "28",
+            "name": "Senju Service Manager",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://t6c-ssm.nri.co.jp/ccfsp/menu/login/login.asp",
+            "visit_count": 0
+         }, {
+            "date_added": "13333791780492491",
+            "date_last_used": "0",
+            "guid": "1528e614-8f5c-43f8-accc-cd6b1358ebc2",
+            "id": "30",
+            "name": "Microsoft Defender Threat Intelligence",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://ti.defender.microsoft.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13334288664527862",
+            "date_last_used": "0",
+            "guid": "72b62822-19f0-451b-a6d9-d4aca50b19ba",
+            "id": "33",
+            "name": "検疫 - Microsoft 365 セキュリティ",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://security.microsoft.com/quarantine?rfr=OfficeScc&tid=ffbefcdb-cf8c-404f-ad0d-12ddee702957",
+            "visit_count": 0
+         }, {
+            "date_added": "13334382401186810",
+            "date_last_used": "0",
+            "guid": "bc886e87-672e-46c2-9699-98e640855114",
+            "id": "35",
+            "name": "My Account",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://myaccount.microsoft.com/?ref=MeControl",
+            "visit_count": 0
+         }, {
+            "date_added": "13334916441376451",
+            "date_last_used": "0",
+            "guid": "90bfe8b6-0f47-42b6-84a9-d26f24d28b30",
+            "id": "41",
+            "name": "Zscaler Cloud Portal",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://admin.zscaler.net/?_gl=1*1ia9d38*_ga*MTc0ODY0MTA0MS4xNjkwNDQyODE3*_ga_10SPJ4YJL9*MTY5MDQ0MjgxNy4xLjEuMTY5MDQ0MjgyOS40OC4wLjA.",
+            "visit_count": 0
+         }, {
+            "date_added": "13337758185106358",
+            "date_last_used": "0",
+            "guid": "90535a27-e803-421b-8911-f95563c0a9ae",
+            "id": "43",
+            "name": "登録文書閲覧:業務管理部　総務担当",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=simpleView&binderId=10953&recordId=1&popup=true",
+            "visit_count": 0
+         }, {
+            "date_added": "13337841139464777",
+            "date_last_used": "0",
+            "guid": "28794a60-228d-413e-ad18-a70b70b66dee",
+            "id": "44",
+            "name": "Login",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.okta.com/login/",
+            "visit_count": 0
+         }, {
+            "date_added": "13338546257614534",
+            "date_last_used": "0",
+            "guid": "e5325c61-e1f2-4d6c-b11a-f705aaab54ec",
+            "id": "46",
+            "name": "Azure Lighthouse - Microsoft Azure",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/#view/Microsoft_Azure_CustomerHub/LighthouseBlade",
+            "visit_count": 0
+         }, {
+            "date_added": "13338546276518362",
+            "date_last_used": "0",
+            "guid": "5b63c3ba-c65c-41ab-a0d0-1ae04005c559",
+            "id": "47",
+            "name": "Azure Arc - Microsoft Azure",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/overview",
+            "visit_count": 0
+         }, {
+            "date_added": "13340858141762299",
+            "date_last_used": "0",
+            "guid": "bc511784-42c3-4f77-9338-b696797bfc51",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "文書一覧:新生フィナンシャル規程一覧表",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocumentList.do?func=list&binderId=11277",
+            "visit_count": 0
+         }, {
+            "date_added": "13340868127684833",
+            "date_last_used": "0",
+            "guid": "15c57282-f0bb-45ec-bd2f-8543cc73afbe",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ワークリスト",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/WorkList.do",
+            "visit_count": 0
+         }, {
+            "date_added": "13340868305140374",
+            "date_last_used": "0",
+            "guid": "6ee64138-49aa-4867-a9b9-12389ff969aa",
+            "id": "72",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "登録文書閲覧:ユーザリクエストメニュー",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=simpleView&binderId=11044&recordId=1&popup=true",
+            "visit_count": 0
+         }, {
+            "date_added": "13340868413732432",
+            "date_last_used": "13370077617179086",
+            "guid": "1407540a-9561-4553-bc23-09b74bbb174b",
+            "id": "73",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "文書一覧:その他作業申請",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocumentList.do?viewId=10005&binderId=11226&func=list&group=NORMAL_DOC_VIEW&cTreeType=0&cTreePath=&calendarDefaultView=",
+            "visit_count": 1
+         }, {
+            "date_added": "13340868475691855",
+            "date_last_used": "0",
+            "guid": "099927d2-a709-47a5-a478-717d861f1d24",
+            "id": "74",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "登録文書閲覧:新生フィナンシャル全社ポータル",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=simpleView&binderId=11335&recordId=1&popup=true",
+            "visit_count": 0
+         }, {
+            "date_added": "13340869462215335",
+            "date_last_used": "0",
+            "guid": "e68a5b5a-47b0-4508-bc97-78400262fd65",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "INSUITE",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/cgi-bin/login_index.cgi?",
+            "visit_count": 0
+         }, {
+            "date_added": "13340869795407854",
+            "date_last_used": "0",
+            "guid": "9b040d61-6b80-4f68-a769-47d3a8573397",
+            "id": "76",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SmartDB",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/cgi-bin/hibiki_smartdb.cgi?_DA_CHK_KEY_=518e0e020f2e8d94f415556c1e48d413",
+            "visit_count": 0
+         }, {
+            "date_added": "13345610218062316",
+            "date_last_used": "13371875698443780",
+            "guid": "3f688d00-3e97-4368-8833-737004f86faa",
+            "id": "79",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "登録文書閲覧:BI本部用リクエストメニュー",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=simpleView&binderId=10688&recordId=1&popup=true",
+            "visit_count": 1
+         }, {
+            "date_added": "13345709450904977",
+            "date_last_used": "0",
+            "guid": "ea942640-dc51-4b6b-99d6-cebb4f7b98af",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "【必見】お探しの規程が見つけやすくなりました！ | Message&Topics | e-Voice",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://evoice.shinseifinancial.co.jp/message_topics/message_topics/3334.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13345717823184006",
+            "date_last_used": "0",
+            "guid": "ab22e655-1f40-41c0-8893-151a4c05ef26",
+            "id": "83",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "【SharePoint】ページを作成する方法とサイトの活用方法を解説！ | ez office",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://ez-office.jp/blog/detail/20211117-01",
+            "visit_count": 0
+         }, {
+            "date_added": "13346127414524044",
+            "date_last_used": "0",
+            "guid": "7343349d-2d4d-4421-96a4-1fbdb03a7f7c",
+            "id": "87",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AWS",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#",
+            "visit_count": 0
+         }, {
+            "date_added": "13346919202160062",
+            "date_last_used": "0",
+            "guid": "b20c316f-d31e-47e4-b1ef-555bafa455b8",
+            "id": "90",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SOMチーム タスクリスト - すべてのタスク",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://fvgwolicaca11h.ad.shinseifinancial.co.jp/Lists/SOM/AllItems.aspx",
+            "visit_count": 0
+         }, {
+            "date_added": "13347073361836008",
+            "date_last_used": "0",
+            "guid": "e0ba6feb-b305-4351-916e-51d6c22c2654",
+            "id": "93",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "日本語 ドキュメンテーション",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://docs.paloaltonetworks.com/translated/japanese#sort=relevancy&layout=card&numberOfResults=25",
+            "visit_count": 0
+         }, {
+            "date_added": "13347950872331452",
+            "date_last_used": "0",
+            "guid": "66056c61-85dd-4bc0-9c85-7008c43b84b1",
+            "id": "96",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "運用ドキュメント",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "http://systemoperation.gitlab.security.local/manuals/",
+            "visit_count": 0
+         }, {
+            "date_added": "13349349691188313",
+            "date_last_used": "0",
+            "guid": "39595743-bda7-4df9-84be-a421ea40cc3f",
+            "id": "99",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "登録文書閲覧:【メニュー画面】業務運用部",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=simpleView&binderId=13118&recordId=1&popup=true",
+            "visit_count": 0
+         }, {
+            "date_added": "13350040971150024",
+            "date_last_used": "0",
+            "guid": "4b6761ae-7b8a-415f-bd52-4b43c5597f0d",
+            "id": "102",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "文書登録:休日出勤/深夜残業申請",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=insert&binderId=10640",
+            "visit_count": 0
+         }, {
+            "date_added": "13350383378004820",
+            "date_last_used": "0",
+            "guid": "db72bb16-a201-416b-bbdb-5e347d27ad11",
+            "id": "105",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Azure Data Explorer",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://dataexplorer.azure.com/publicfreecluster",
+            "visit_count": 0
+         }, {
+            "date_added": "13354595616192883",
+            "date_last_used": "13371612124042917",
+            "guid": "737013f7-634f-40f3-ad39-d9f6f5218964",
+            "id": "112",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Munenobu-Nakabayashi (Dukeくん) · GitHub",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://github.com/Munenobu-Nakabayashi",
+            "visit_count": 1
+         }, {
+            "date_added": "13354603722107817",
+            "date_last_used": "0",
+            "guid": "97301aeb-b9ea-45b6-bfa5-e0a671abfafd",
+            "id": "113",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Page not found · GitHub · GitHub",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://github.com/Munenobu-Nakabayashi/repositories",
+            "visit_count": 0
+         }, {
+            "date_added": "13365135890769606",
+            "date_last_used": "0",
+            "guid": "26fac9cf-4d20-45b8-8572-c00c5c04baf2",
+            "id": "117",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "202407_アカウント台帳分析 - OneDrive",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseibankgroup-my.sharepoint.com/personal/308005918_shinseifinancial_co_jp/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F308005918_shinseifinancial_co_jp%2FDocuments%2F%E4%BB%95%E4%BA%8B%E5%AF%BE%E5%BF%9C%2F101_%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E7%AE%A1%E7%90%86%2F202407_%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%8F%B0%E5%B8%B3%E5%88%86%E6%9E%90&ct=1720662209364&or=Teams-HL&ga=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13369745112690701",
+            "date_last_used": "13369900770882624",
+            "guid": "a229aadb-591c-4fbe-ac94-d472b436ca9b",
+            "id": "120",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "登録文書閲覧:【コミュニティ】RPA推進ツール",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=simpleView&binderId=10847&recordId=2&popup=true",
+            "visit_count": 3
+         }, {
+            "date_added": "13369814678227740",
+            "date_last_used": "13371120544426178",
+            "guid": "65891485-7737-4921-98f3-0366d76a4764",
+            "id": "123",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "文書登録:ユーザアカウント作業申請（業務系）",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://shinseigroup.dacl.jp/hibiki/BRDDocument.do?func=insert&binderId=10718",
+            "visit_count": 4
+         }, {
+            "date_added": "13371608161859987",
+            "date_last_used": "0",
+            "guid": "2f050319-cb56-4201-91da-685202e725de",
+            "id": "126",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ShinseiBankGroup - Microsoft Entra 管理センター",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://entra.microsoft.com/#home",
+            "visit_count": 1
+         } ],
+         "date_added": "13332817392328420",
+         "date_last_used": "0",
+         "date_modified": "13371608161859987",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "お気に入りバー",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13332817392328422",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "その他のお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13332817392328423",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "モバイルのお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cp0BCh4IiIECEgimi68wkgEAACoOEAAYASAAKAEwADgAQAASABpYeG5WcUs4RmNiODdoYkd0aGlPcmhScUhBczFoMUhnRy9sdkw2a1JZbmxRSzJ1akV3UTgraEo2c2FQQ0ZmTXE0MElmMkl3WURHeWREdUc2b3lvelJzckE9PSoYWU8yRmpoaU01U1BSU2dOUDBFb2dYQT09SAOgBgwgARKpAQgaEqQBChxoQjEwbk5IdGJLTGIxeGJ0N0hxSWNwdWt5ZEE9EiQwZTZmOTYyNi0xMGU1LTQxNGUtYWM3ZC0yYTdhYzBkZDAzZmYYACAFKAUw3pqe3pIyOIrgvfySMUCLub78kjFKHHl3NGh3WTlqNGFaeUJHOXh1ZW52ZmFvd0xLOD1aICIe//5wMTYvcVFQbmd2eStXYjRNVTVBN0F3MDRjSWs9Zacc0hkSqgEIKRKlAQocQWorWWhmT0p6RkJuYmxaRVlpb1U1Y1dxbTA4PRIkOTBiZmU4YjYtMGY0Ny00MmI2LTg0YTktZDI2ZjI0ZDI4YjMwGAAgBCgEMM6ant6SMjig+vqxmTFAvPr6sZkxShxXLzFCdHNuT0VSdkJpb3N3aTZiTHA3V2UrejQ9WiEiH////UhoVTl1NjNtZFJqV0VLakZoejk4dm9JR2Rvaz1lAXYxMBKqAQgQEqUBChxrZHdkY0gxOGdOczA5SUluMC8yTm1Lb2tKY0U9EiQxZDk4OTRiNC1iYjkxLTQ2NTUtYWE5My03MDFkNzk2NTJmOTEYACCkASikATDMmp7ekjI46rXj9ZExQO21hL3xMUocUWJ3Rm90T1IvZFl1aUdRV3BUTGtLNkxmU0RZPVofIh3/a0s0Sm9SKzZTbndiY1JSclVXS3NxRStLb0ZnPWWGIba4EqoBCC4SpQEKHG1ENmFNdG9DL1didkpudENycThsRlJmQjE2OD0SJGU1MzI1YzYxLWUxZjItNGQ2Yy1iMTFhLWY3MDVhYWFiNTRlYxgAIAQoBDDmmp7ekjI4zq3l9KYxQOit5fSmMUoceFcyN1R4WmpXMWNLb2VxRFhhbUNIVkFuK2hRPVohIh////9XSENiQm9ybkYxa0xuZGhlRUVZNWhjbG5jVGs9ZdKhbF4SsAEITxKrAQocdnczRjR0a2M5R05wSXBteXlPOXQ4VWxlQ2x3PRIkM2Y2ODhkMDAtM2U5Ny00MzY4LTg4MzMtNzM3MDA0Zjg2ZmFhGAAgBSgFMM+ant6SMjjOpJOdwTFAmqP8sMUxShxESExtdGpDcEVCZVltSW9TTmFkbHc4ckhDV2M9WiciJf////8AAAAE/lFyUGJzUFl1RHJEazlwZUtlVjk5QnA3cFlRND1lu1cm0BKnAQgGEqIBChxVdGF6NWw0YlhoSXgxLzBrL2dqSlJDcmhJNTg9EiQzYzgwMTcwYi05YjMzLTRlYzMtODUyMi1jZTJmYjUxNWNmZjUYACAXKBcwiKTJpJwyOPHlyc2RMUC8iLeknDJKHDhxVkM0Y2F2WE5LdGdYeGx4U0loV3NsV1UrTT1aHiIcSW9zUGpKbG5ncWZ5bjUveGR4U3hqR1E2NmFZPWUaeYLwErABCFcSqwEKHFNiTTg0N3JKVXJ6dHkxK2hhWlAxK3d0SzZhYz0SJDczNDMzNDlkLTJkNGQtNDQyMS05NmE0LTFmYmRiMDNhN2Y3YxgAIBgoGDDrmp7ekjI4/Lnik8MxQJDw2bPzMUocWlZvSjdGTG9SbFh6RXF2cVpQTzEzZUhicGRvPVonIiX/////AAAABdVJaUZ6YjZpT01uQ3hWME1ac1l1L3BYWHFwaGc9ZUpJ6gkSsAEIfhKrAQocdGM0Z3QyMTl5YWp4RytvcXl1RmpBTU9mMGhzPRIkMmYwNTAzMTktY2I1Ni00MjAxLTkxZGEtNjg1MjAyZTcyNWRlGAAgAigCMKG/ioqiMjjE7PeJojJA3uz3iaIyShx6Qkt5dkxwUGtSRFMzd3NoUFRCMVVxbElVd2M9WiciJf////8AAAAG/XUxc0VyT0Q2VlNWR3NvczJjTklvc1E0Z3poND1laMHyuhKwAQh1EqsBChw2OFhHREw3UkF0SGRrdFVHS3FZcHN6UUNuVVk9EiQyNmZhYzljZi00ZDIwLTQ1YjgtODU3Mi1jMDBjNWMwNGJhZjIYACADKAMw0pqe3pIyONLi2/uJMkD24tv7iTJKHHYydUtJaDRGbEhxODJZOGxvb1VqVnBPeHUzUT1aJyIl/////wAAAAbuLzM4ei9WQmFxTkJBak5KV1NzTFMxR1dGR1I4PWUA6hNMErABCHASqwEKHGpTVWY5a0JlMDlCWG0wYU9EQ3RDRTNWRFNTbz0SJDczNzAxM2Y3LTYzNGYtNDBmMy1hZDM5LWQ5ZjZmNTIxODk2NBgAIAQoBDDTqoaCmzI4wbvc2eIxQPKl9IGbMkocVGxyN3l5Uk5Gb3VmbGI2ckExZWNPV2k1YlVFPVonIiX/////AAAABrtGazhFNkErQTluYTVkdjBubTFIN01YbVk3N1E9ZRVQ+YkSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYjM3MTUxODUtOWZlNy01MTk5LWI0MjctZDljYWRlNDZiZDZjGAAgACgAMKKfhsqRMTjko4bKkTFA5KOGypExShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgPEqMBChwvUTBQTXdybUpTUUY5Q0ZjK0IrTzZUQkNjakU9EiQxZGMzNzg1My0wNmZiLTQyNDYtOTlmNi05ZmYyYWMxNGY4NGQYACAHKAcw05qe3pIyOJOC3fWRMUDk66LtrjFKHE9nWHdzSUorZE4xaEZEdmpqRGdzQVhHK1VsQT1aHyId/msrT1hDY1Fud2huanI3ditFQ3JRVGlUOVRTZz1l0qFsXhKpAQgcEqQBChwrUjN5UlliZXdlSnNkRmFQQ1VSTzNoZ1BqblE9EiRlNzUyNTY4Ni1kNDIzLTRmMGUtOTVmZi1mMTZiNWE2ZjFjZjkYACAEKAQw2pqe3pIyOMmKsuuTMUDdirLrkzFKHHlWbUdVcjFYa2FFN2pFU3BRdS8ySmFkVm5MND1aICIe//80aTVzY2g0a2RWMUZBc3V0MDlDT1ZpdTdZMU09ZTSY0PQSqAEIDhKjAQocMUdOWmtpZ2hSYUlOTU5LeXVEbUxXV1ZpV1BBPRIkYjcwNDQ5ZTgtOTg4NC00ZjQ5LTllZWQtYzYzOTFlZTdhNDkwGAAgBigGMNSant6SMjirmNr0kTFApe6Ilq8xShxwN2UwdUZiTzZyeUxzZUpGVERwMXRORWJoYVk9Wh8iHf1yNGE5VVd5RWlOVjZRdkEyb09rbU84MlBRRUE9ZURwiG4SqgEILxKlAQocckdCdXVhOVlBSUVOWGU2NVpHVElWWWQyN3kwPRIkNWI2M2MzYmEtYzY1Yy00MWFiLWEwZDAtMWFlMDQwMDVjNTU5GAAgBCgEMNWant6SMjimweb0pjFAvcHm9KYxShxQM2hiM3ZHSzRObXlBdklZT29GTXdoaFk1RTg9WiEiH////3JZNHBUbHNPajd5RHBSalovT25ZcW9lU2RyYz1l0qFsXhKwAQhaEqsBChw0dFdrYmRIOUxmc1ZFbVppRGJtbzJSVkNDOTQ9EiRiMjBjMzE2Zi1kMzFlLTQ3ZTQtYjFlZi01NTViYWZhNDU1YjgYACAEKAQw15qe3pIyOPCqqY3GMUCdq6mNxjFKHFdSZ1FxL3RVTWtRQkUvaDRHUmt4NnBWN01MTT1aJyIl/////wAAAAXqVjhxcFljamk1UVNDdkNCdlJpRUZucnA1NEswPWW/a+EPEqgBCAcSowEKHHkyeWk4UFZkbUVFVDQyZ1FoRUZGYW5pK3RpRT0SJDJkMTY3OTU2LTUwYWEtNDBkNy05MDA0LWQxYmY1OGRkNmViORgAIAcoBzD2tJ7ekjI48eXJzZExQJXW8r7NMUocK0dTaHRLb0hwbG5aNU92aEYxYzFJbnNwUktZPVofIh2kN0VxT04rYjRpRHBBMW5NZkIvWjc1TFFZcE9ZPWXSoWxeEqgBCAoSowEKHFdPeFlORlk1NUt3aGJiVys2RGp3UnBDU2UxUT0SJDFkNWJmZTVhLTU2MTItNDU0Ni1hMzI0LWNhNmY2ZGQ1Y2FlYhgAIAQoBDDfmp7ekjI48eXJzZExQNbu+7DFMUocaWpLYjZvaVMvWEZPVmRieEdTZDVTNXhMMEZBPVofIh30WmJnR1lLR1czVmRaRTFuU2FCcnJZSmg0aTYwPWW7VybQEqkBCBcSpAEKHE5EbjVMV3dPMWZqUnFScDNlMWtFNjdLVDExZz0SJGMyMzdlY2ZhLTYyMGQtNGYxNS1hMjAwLTViZDk3MTNiYjU2NRgAIAYoBjDYmp7ekjI47+bK9pIxQJCWl+2uMUocb0VxWWN3N0lTMTFjZGlpZllNSnkyK3BQMk9BPVogIh7/92VBdGkrSHBsalZsWUw1WmcrdXBCekZQRyttQT1l0qFsXhKqAQghEqUBChxYbGNjbldHRlBueEFoay9Va09oUUt3UEp6SHc9EiQ3MmI2MjgyMi0xOWYwLTQ1MWItYTZkOS1kNGFjYTUwYjE5YmEYACAGKAYw1pqe3pIyONC/zoaXMUDk/YPtrjFKHFVYSzY2bmx3TVBTNEEwTWRnM2N3S2V5WHdTTT1aISIf///RZlg5VUxtUjVKWS83V0FuS0FmUG9jQktaWmxFPWVEcIhuEqoBCCsSpQEKHERpc0Y5NlBicUZmcDFYWHEzMjhpcXkzelljND0SJDkwNTM1YTI3LWU4MDMtNDIxYi04OTExLWY5NTU2M2MwYTlhZRgAIAUoBTDjmp7ekjI4kp2B/aMxQJmj/LDFMUocOFN6cFQ2NCtnNU5rakZkY0dDeVRUWDRHK0dNPVohIh////4vdlZueU94U3l2LzEwTXhrb256anZyMkFjczg9ZbtXJtASrwEIaRKqAQocTlAvcXlRNEQ1ckpzTlpORlN4d3hQazhybGlFPRIkZGI3MmJiMTYtYTIwMS00MTZiLWJiZGItNWUzNDdkMjdhZDExGAAgAygDMNmant6SMjjV7JWB0zFAge2VgdMxShxZbjhjdTJlU25TMVVOK0xVZjQzalYxOXZpcUU9WiYiJP////8AAAAGdzh3aTN1cmlsWklXcjdDOWpEbXBsMEM1TitrPWXg/QtQEqkBCB4SpAEKHGUrNERoNzBwZEUycENhRmt6emJuS0pYZlBCZz0SJDE1MjhlNjE0LThmNWMtNDNmOC1hY2NjLWNkNmIxMzU4ZWJjMhgAIAQoBDDgmp7ekjI4jI3XmZUxQKqN15mVMUocbUNkN3F4cmlGbkwrRWdVWGlNaTVaYkZzdVJzPVogIh7//0RBSWd4NTlzdmxsQlFPM3hPL2RLKytqTS9Ibz1lyHx8tBKpAQgYEqQBChxSS3JVb1lBemtPaE9nZzdZKzFjZlZxNFRuV009EiQxNTE2ZmMyYi0xMTUxLTRiMzQtYjUwZC00ZGI0YWEyM2FiMzEYACAGKAYw3Jqe3pIyOI6j0faSMUC8u5TtrjFKHDZ0VzAzZXFTMXJOV2lTbWFzMWJaUGplSFdsTT1aICIe//tWTEs5UkxjZ0E2STlpZTFGNzVreHZsM3AwblU9ZURwiG4SsAEITBKrAQocVHNVWEtndmV6M3Zzb0V5T1FzTWNQWDdYYTVvPRIkOWIwNDBkNjEtNmI4MC00ZjY4LWE3NjktNDdkM2E4NTczMzk3GAAgBSgFMNuant6SMjjQ7N7IrzFAmqP8sMUxShxIWHVMODBvVFdzamIvNFpzY3pUbWFlY09oak09WiciJf////8AAAAE/URyeElOdzE1dmx1MmE4S09Rc2UvWWtZMGtacz1lu1cm0BKwAQhmEqsBChxPZHNHMVRLdEU1bC80ejlaN21xMkhUczNqems9EiQ0YjY3NjFhZS03YjhhLTQxNWYtYmQ1Mi00YjQzYzU1OTdmMGQYACADKAMw3Zqe3pIyOI7/8t3RMUC4//Ld0TFKHE1RZU9pUzM5TVhWb2tEVWhhd3dZVmNEK1JTQT1aJyIl/////wAAAAX+cWxBaElKTnExVmRKUHJkSllncXVENHcrS3FVPWW7VybQEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDNhMDJkYTUwLTNjY2YtNWI3Mi1iMGY1LTAzNGJlZjBjMDRmMRgAIAAoADCcn4bKkTE4m6KGypExQJuihsqRMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqQEIbRKkAQocYzdTelM1R0VtRjl4b3FYaHZ3QWlzZk05djFjPRIkNTdjNzhhOWQtOTdjNC00MTk0LThmMTMtZjY0Yzk0M2RhYzRjGAAgOCg4MOCt/ICVMjjM5dbD1jFAt/HqgJUyShw2YTY2WFQ1QXlxbVQwQmhwWjhJcEpLaHRyczg9WiAiHv9fcVhTdWZ2ZWd2ZnZEWXczRUk2ME9DRnlheVJzPWXJCZrDEqgBCAgSowEKHFMxRWdOUmU3TGcrRjR0MFFRWE5CZmhZRGVkbz0SJDE4NWI2ZWM5LTk5ZmEtNGU1Yi1iMjQxLTFhZGVhM2M1MDA5ZBgAIAcoBzD4tJ7ekjI48eXJzZExQNnq9b7NMUocc09UdTR5RDZRSHBsNU0wQVp2Yi81L3orZlhzPVofIh3SZ2ZRaFR6UG5UMGFvUC9pTkRieW9BQWY1bW5rPWVEcIhuErABCGASqwEKHHFmR05heTUzY1RzTVA2NjB2NThncVR5VFRvST0SJDY2MDU2YzYxLTg1ZGQtNGJjMC05Yzg1LTcwMDhjNDNiODRiMRgAIAQoBDDlmp7ekjI4jL6h+ckxQMC+ofnJMUocV1dMSTBOb0FBSTZHQkIrbVY2aTlta25uQUhNPVonIiX/////AAAABforN0dPSUVrSnFxVkJ5U2NOWGI5aVQ1N2lNbFU9ZS0+n/kSqAEIDBKjAQocR2dRbTQ2S3FpNE8wa0g0OXZXWEdZL1hFRjlJPRIkNDQxNzA5MzktYWYwNC00OGZmLWE3ZDEtODBjMGRhOTk0NmI4GAAgAygDMPOant6SMjizw5XTkTFAs8OV05ExShwvNFNSaEowK3VLeU4zODlEa1YzQmp6UThKbTA9Wh8iHfpmR3NyR0RWSW1VQ3FydTdaaWZsVnl0dzl1eTQ9ZQAAAAASsAEISRKrAQocNE9rN05sWTQ1bjh3eFcrMFZJUEhsdkIyMDZ3PRIkMTQwNzU0MGEtOTU2MS00NTUzLWJjMjMtMDliNzRiYmIxNzRiGAAgBSgFMOGant6SMjikworIrzFAmqP8sMUxShxwd29xaTJmZ2p0VGtyQ3VHeWJ4N1dQSk9yVGM9WiciJf////8AAAAE7kU2YUZYblZuOW41bTNyTzNvMVhsajZBN2UwUT1lu1cm0BKwAQhKEqsBChxIK01mMGF3YmMyd1dFZFh5My9POVBVbHdpbzA9EiQwOTk5MjdkMi1hNzA5LTQ3YTUtYTQ3OC03MTdkODYxZjFkMjQYACAFKAUw8Jqe3pIyOKymjsivMUCao/ywxTFKHGY4dnpuV2tCQmFJbkNMUStDTVhONmd3aXpsND1aJyIl/////wAAAAT3dGdDQ1g4VFBpSjVnb25YaXZsalI0cVB3QU84PWW7VybQErABCEYSqwEKHDhGNkozeXdOYkY1MmpXVDdaSTBZZE1UNU5vND0SJDE1YzU3MjgyLWYwYmItNDVlYy1iZDJmLTg1NDNjYzczYWZiZRgAIAUoBTDimp7ekjI4xYf5x68xQJqj/LDFMUocQnlZQkp4VC9VUm94ck1WMFhhQUpza1pRTFNBPVonIiX/////AAAABLhwazRMb083M0VvZXlyeXdscXhvVnFwUGI1MkE9ZbtXJtASqQEIGRKkAQocZDYrK2JsaTlGZnd5VmQycWtBUkVNTTlGaUpjPRIkZjBiMDAwM2YtZGQ3ZC00NTljLTkzODgtOGQ2NTE0Y2U0MTYwGAAgBygHMOmant6SMjjfm9L2kjFAgfj/sMUxShxmUlk2aGFHVVBJV285YWxEQW16ZTkzR0V5b1U9WiAiHv/9bWduekMrNzBYMUtNdmpRWGZBaWxIZGxpTWVFPWVPzBHlErABCEsSqwEKHCtwdzM1VXkwc1l2bjdpUVlIUHp3Z3VBMm0zWT0SJGU2OGE1YjVhLTQ3YjAtNDUwOC1iYzk3LTc4NDAwMjYyZmQ2NRgAIAUoBTDqmp7ekjI4x8HKyK8xQJqj/LDFMUocZTdCV2xKVUNHMXZldnkyS3lMWjg5S2lLaHdrPVonIiX/////AAAABPtubWhnQkl2YUg0T0lKYUlzQzQ2VXNLL3ZCK289ZbtXJtASqQEIFhKkAQocOUU5a2U3N2hDeVh4SGxIUGNRN0ZwcmxReWxZPRIkNTQzYTM1ZjQtYjUzMC00YzBlLTg0NDktNzA3MGJlYmFmZjQ5GAAgBigGMO+ant6SMjilnsn2kjFA+8CZ7a4xShxzQ0tJSmx2SzVtem1ETlVjaXE0cGhSL2U0NWc9WiAiHv/ubUQvU05BNWhRSFFxL1pXZ29FTHN3a3lXYXAwPWXSoWxeEqgBCAkSowEKHHEzcTNFckt2di9DOFJ3T1lhTU1DcnpEYjU2UT0SJGEzZTI2YWFiLTBhNTktNDMwMS1iZjVlLTgxMTRmMzYwMWExORgAIA0oDTDTjs2knDI48eXJzZExQLXzuqScMkocMm5seVhYbE5SKzR0TjdDcE9Tck5WcTBmNlU0PVofIh3pODZUZ3dhdGVsb1hvNUh5Zk1iTVp5Z3NMMHAwPWVowfK6Eq8BCFISqgEKHFZvaVVHcHpjV2k3bWNoUkl6TGwwNVVEN3Bqaz0SJGVhOTQyNjQwLWRjNTEtNGI2Yi05OWQ2LWNlYmI0ZjdiOThhZhgAIAMoAzDxmp7ekjI4mf27zMExQJn9u8zBMUocb1c3LzJSUUpHQVNGUWpMZDFBeWVDOTVYR2pFPVomIiT/////AAAABVc1Vjg1WHlYMGlvYVBXZkp1NHdlb3oySm8wQT1lAAAAABKwAQhxEqsBChxnV1VTK01OcHQyR0NRZ2JZZHQ1SVhLY3Ria2s9EiQ5NzMwMWFlYi1iOWVhLTQ1YjYtYmZhNS1lMGE2NzFhYmZhZmQYACAEKAQw0qqGgpsyOPyay93iMUDypfSBmzJKHFllRVY3QUZ3L1AxZ0NmRlVQQWxGQVhXMldUUT1aJyIl/////wAAAAbdQVVXeGtQU3h4OWQxTWU3K2ZiM1c4a29wc2lVPWUVUPmJEqkBCBUSpAEKHE82ZDFwb0dIT2hDN0g2WXVqd1hxbnRXRjY4bz0SJDhjZTRkNDU5LTVlYTYtNDNkNi04ZTdiLTBmODczYzg1MDAwNxgAIAYoBjDymp7ekjI43vfH9pIxQPrtm+2uMUoceUVJbVp4MEJhRDRsa3JzeWxjZVc3V3ljN2FrPVogIh7/3Ug3dWIwVXFZLzBqWTVLQXJFS3VYZmw4S3UxMD1l0qFsXhKoAQhsEqMBChxRN3EyOWJ6WmtzcXFLOEtwODlsUXVjcElDNzA9EiQ3ODM3NDBhYS01OThhLTQzMDMtYjZiZC04OWE1OGQ0MTkzYjIYACAFKAUw7Jqe3pIyOO7M9sHWMUC16ffB1jFKHHlsWS9sVVh4c3NrbFZXUEVjNFlkMzFVaFNiST1aHyId/1RrRHNQcDQ5RlFmcWlqd3VxeU0vT1lCZUExbz1lw6ezpRKqAQgjEqUBChxCNE5UQVpWUUpYbmtkQ2xvZXNaTkNad2hoK0E9EiRiYzg4NmU4Ny02NzJlLTQ2YzItOTY5OS05OGU2NDA4NTUxMTQYACAEKAQw6Jqe3pIyOKPdp7OXMUCx3aezlzFKHHd0cFpQQ0FOc0NXNVhCaE9FZ1VOUG1uaTd1Zz1aISIf///obldvaUwzTVliaW1GZ2orem1Zb2VmV2lZZnlRPWWnHNIZErABCF0SqwEKHHQwODMyT2ExNU1EQnR1dE1KaHRXQk56YTNYYz0SJGUwYmE2ZmViLWIzMDUtNDM1MS05MTZlLTUxZDZjMjJjMjY1NBgAIAQoBDD6tJ7ekjI4rL/q1sYxQMi/6tbGMUoceEpxTUVkY04yMmdSbDNGdnhscTJ1MUQ0N0dFPVonIiX/////AAAABfVmM1IyMU9mVm54RlJPOXJXTHVEYXRaeVNwSFE9Zdpm94QSqQEIFBKkAQocU1NKTWZ1RTJEdFVIakJZYkdYM1pyWFRHQU5vPRIkNWI1Njc5N2YtNGU4Ni00YTViLWI4MTAtNWRkYWNmNGRjMjQyGAAgBCgEMPy0nt6SMjjHucb2kjFA3rnG9pIxShw5K2JCZ0FVWTR3Q3BjTTRoMU9lalVhVnU4RkU9WiAiHv+7OUVZdXpHUS9hUllxaktWSDhYMXBwVlRROVJvPWWnHNIZErABCGMSqwEKHGFsVG5Yc2l4WlcxaFRBSitLUXR1bE5xdkFocz0SJDM5NTk1NzQzLWJkYTctNGRmOS04NGJlLWE0MjFlYTQwY2MzZhgAIAQoBDDump7ekjI4tM6ilM8xQJXPopTPMUocK0dXUGozWWExVmNFWlhUMHNHbWtWeUVFYVAwPVonIiX/////AAAABf1vUmxFaWxuRlhUN0ExcmFoNGdNREN6ZldSSW89ZbtXJtASrwEIRRKqAQocUlZORGRsQnE3RXNpSExOeVUzRXR1TGNETC9BPRIkYmM1MTE3ODQtNDJjMy00Zjc3LTkzMzgtYjY5Njc5N2JmYzUxGAAgBSgFMNCant6SMjjCyJfDrzFAmqP8sMUxShxvRWdsMDRyMTdLT0RsMXhPTTdnMEY4VDVOOUE9WiYiJP////8AAAAEcUJqVmQvdUgrTlJQbnZZUFdtY3FWeHpSWW9BPWW7VybQEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGI0ZjBjMmFiLTNiYjctNTU1Ni05ZDA4LTFmODVjMmRhNWJmYhgAIAAoADCdn4bKkTE4u6KGypExQLuihsqRMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASsAEIUxKrAQocR2pxaDdNeDRVWnU2UnJUTmRQejd5akhYdXJVPRIkYWIyMmU2NTUtMWY0MC00MWMwLTg4OTMtMTUxYTRjMDVlZjI2GAAgBSgFMPu0nt6SMjjQ/brQwTFA05iplNUxShw1Mis5MzlVMDB6YTZhK052M3FWajZKTlJDMzg9WiciJf////8AAAAFq0hWOGFNdlJHVjYwaDBiNS9oaG9McWthWi95az1lrcAnJRKwAQhIEqsBChxvTSs4cVZIYnptTjlGd1RDZU4zZGpOd0g3cmc9EiQ2ZWU2NDEzOC00OWFhLTQ4NjctYTliOS0xMjM4OWZmOTY5YWEYACAFKAUw7Zqe3pIyOPTxg8ivMUCao/ywxTFKHDlhNkx4K0VRbU13V2hXU3F2OHpmaUVGMFVJTT1aJyIl/////wAAAATcbGVHZ0J1R25hN1Mzam5wdDkvRHcwcFEwZnNBPWW7VybQErABCHgSqwEKHFU4TFQ5QjBpUEJtOGlCdXN5R3BXM01rRjdadz0SJGEyMjlhYWRiLTU5MWMtNGZiZS1hYzk0LWQ0NzJiNDM2Y2E5YhgAIAIoAjDRtNqRmzI486zIkZsyQIetyJGbMkocUVJGUWZra3ZFUGNyenZ5VnpPWjgrQkFhV2J3PVonIiX/////AAAABvc3Nnd1RFE2bTRHOWNjY2JMbjlKUHNwS0pYMlU9ZbtXJtASqAEIEhKjAQocTlJvT0pVeEVSWDZhOWRBaXp0TEVXcEZuM1F3PRIkYzIzMjA1OGItOWVjZi00YTBkLTgxYTQtNWY4ZmVhM2UwN2FlGAAgBCgEMOeant6SMjjpwO71kTFAwu6mypIxShxja0c4TUNab2wvblRITldWRnRNeW5kSXNWZ3c9Wh8iHf93MVc5K2Y4QXkyL1pIWjIxYlNqSmNieXpTUTQ9ZX5P2tgSqgEILBKlAQoceGp1TGRWTy9qMzM1QWJnZEF6VGExZDNRZWRFPRIkMjg3OTRhNjAtMjI4ZC00MTNlLWFkMTgtYTcwYjcwYjY2ZGVlGAAgBSgFMP20nt6SMjiJrsikpDFAkNSCscUxShxMbWZxRmxsQ1dvOVhXR0Z1SmZ4QzhzZG1Gd1E9WiEiH////1I5dk9SSzRObGdpbnRDcDZMRmZoNUtkQlFYOD1ldAQDmhKwAQh7EqsBChxKazNvUmhwcjVWVE5STUg3dFE0ai84SXdvekE9EiQ2NTg5MTQ4NS03NzM3LTQ5MjEtOThmMy0wMzY2ZDc2YTQ3NjQYACACKAIwxL3wspsyONSl3rKbMkDtpd6ymzJKHCsrbkZmTGZPRFBxSVdXT1d6cm5KUE5kQWFKRT1aJyIl/////wAAAAb7Rnhua0lmWmNJSi9IanJ0YTc5L0trdGZEeExVPWW7VybQMAA4AA==",
+   "version": 1
+}
